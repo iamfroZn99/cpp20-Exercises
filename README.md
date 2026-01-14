@@ -8,7 +8,8 @@ Exercises are organized **chapter by chapter** for easy navigation 📂.
 ## 🎯 What’s Inside
 - 🧩 Small C++20 practice problems  
 - 📚 Chapter‑wise organization  
-- 💻 Hands‑on code samples  
+- 💻 Hands‑on code samples
+- 📖 Chapters start from 2 cause there are no exercises in chapter 1
 
 ---
 
