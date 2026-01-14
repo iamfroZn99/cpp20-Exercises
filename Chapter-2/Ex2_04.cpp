@@ -19,4 +19,6 @@ int main() {
 	inches = static_cast<unsigned int>(length * inches_per_yard) % inches_per_foot;
 
 	std::cout << std::format("{} yards is {} yards {} feet {} inches", length, yards, feet, inches);
+	return 0
 }
+
