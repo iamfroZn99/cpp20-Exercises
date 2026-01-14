@@ -9,4 +9,6 @@ int main() {
 	std::cout << std::format("The value of apple count is {}\n", apple_count);
 	std::cout << std::format("The value of orange count is {}\n", orange_count);
 	std::cout << std::format("The value of total fruit count is {}\n", total_fruit);
+	return 0
 }
+
